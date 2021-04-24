@@ -28,6 +28,7 @@ download the resource then move the protoc.exe file to the GOBIN directory
 
 1. go get github.com/golang/protobuf
 2. go get -u github.com/golang/protobuf/protoc-gen-go
+3. go get -u google.golang.org/grpc/cmd/protoc-gen-go-grpc
 
 ### step2. write the .proto
 
