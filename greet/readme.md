@@ -19,6 +19,8 @@ GOBIN: GOROOT / bin
 ### step1. go to the github to get the protobuf
 
 Link: https://github.com/google/protobuf/releases
+version:3.15.8
+
 
 download the resource then move the protoc.exe file to the GOBIN directory
 
